@@ -12,6 +12,7 @@ I'm Aldrey Pabilona, a dedicated coder with a solid foundation in database manag
 - [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=29AE4D6B3D15099D0012C6A83492C9605358A1C795B46621549D5AB20FDDD307&fbclid=IwAR0PCzUJrkOScHaL8lDtlounilX0aeCA3HaTx9eTqe3wZmNYhwV3-ZJIFnQ)
 - [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=27F4EEBE8E8CA25F2E7117566F09EA076D165D6CB954F07C02DBC0D3F25F4CAE&fbclid=IwAR1PtL9wIWuxl_NA1dHiVsUoiyOsXay42YmAEdenoPSS8tSWWS71WJdac-8#)
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/2daab9142059409fa3028ed6af046345)
+- [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/36274bbe41fa4b63917692144ac78691?fbclid=IwZXh0bgNhZW0CMTAAAR3U-mXSet2MJsDYY7WOZTEvk_ADnuOtms2PR2o-MLFoUw72kG3jomXdTBg_aem_AYhTZQ4gi-cnpRm0P2Gvcztc7h5lV9OylSBZk94tqh_0hZ3tpO5WUz39xqQTMUYulNyhNv1C9uZLCcLvYZYw92j6)
 
 ## Skill Sets
 - ![Programming Icon](https://img.icons8.com/color/48/000000/source-code.png) Java, Javascript
